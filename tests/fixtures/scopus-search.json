@@ -1,0 +1,25 @@
+{
+  "search-results": {
+    "entry": [
+      {
+        "dc:title": "A study of Gaussian processes",
+        "dc:description": "Measured results",
+        "prism:doi": "10.1000/example",
+        "prism:coverDate": "2024-04-12",
+        "author": [
+          {
+            "authname": "Lovelace, Ada"
+          },
+          {
+            "authname": "Hopper, Grace"
+          }
+        ]
+      },
+      {
+        "dc:title": "Work without DOI",
+        "prism:coverDate": "2023-01-01"
+      }
+    ],
+    "cursor": {}
+  }
+}

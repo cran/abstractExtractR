@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "count": 2,
+    "next_cursor": null
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W123456",
+      "doi": "https://doi.org/10.1000/EXAMPLE",
+      "title": "A study of Gaussian processes",
+      "publication_date": "2024-04-12",
+      "authorships": [
+        {
+          "author": {
+            "display_name": "Ada Lovelace"
+          }
+        },
+        {
+          "author": {
+            "display_name": "Grace Hopper"
+          }
+        }
+      ],
+      "abstract_inverted_index": {
+        "Measured": [
+          0
+        ],
+        "results": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "https://openalex.org/W123457",
+      "doi": null,
+      "display_name": "Work without DOI",
+      "publication_year": 2023,
+      "authorships": [],
+      "abstract_inverted_index": null
+    }
+  ]
+}

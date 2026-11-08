@@ -1,0 +1,48 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message": {
+    "items": [
+      {
+        "DOI": "10.1000/example",
+        "title": [
+          "A study of Gaussian processes"
+        ],
+        "abstract": "<jats:p>Measured results</jats:p>",
+        "author": [
+          {
+            "given": "Ada",
+            "family": "Lovelace"
+          },
+          {
+            "given": "Grace",
+            "family": "Hopper"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              4,
+              12
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.1000/second",
+        "title": [
+          "An article without an abstract"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        }
+      }
+    ],
+    "next-cursor": null
+  }
+}
